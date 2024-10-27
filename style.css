@@ -1,0 +1,43 @@
+.nom-text{
+  font-family: Arial;
+  color: green;
+  font-size: 60px;
+  text-align: center;
+}
+.p-titre-text{
+  font-family: Arial;
+  color: rgb(202, 43, 43);
+  font-size: 30px;
+}
+.p-text{
+  font-family: Arial;
+  font-size: 20px;
+
+}
+.submit-button{
+  background-color:  rgb(202, 43, 43);
+  color: white;
+  font-size: 14px;
+  border: none;
+  border-radius: 2px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 30px;
+  padding-left:30px ;
+  cursor: pointer;
+  transition: 0.15s ;
+
+}
+.submit-button:hover{
+  background-color:  rgb(203, 56, 56);
+}
+.submit-button:active{
+  opacity: 0.8;
+}
+.pic-of-spiderman{
+  margin-left: 500px;
+}
+.t-table{
+  margin-left: 440px;
+  background-color: white;
+}
